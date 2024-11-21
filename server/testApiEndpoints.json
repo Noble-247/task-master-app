@@ -1,0 +1,16 @@
+{
+  "users": [
+    {
+      "name": "Emmanuel Peter",
+      "email": "emmanuel@yahoo.com",
+      "password": "Special@123"
+    },
+    { "name": "John Doe", "email": "johndoe@gmail.com", "password": "TestPass" }
+  ],
+  "tasks": [
+    {
+      "title": "Appointment with my Dentist",
+      "description": "Doctors Appointment"
+    }
+  ]
+}
