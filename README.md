@@ -1,4 +1,4 @@
-# TaskManager Web Application
+# TaskMaster Web Application
 
 ## Overview
 
